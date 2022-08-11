@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Cards-composition-React/static/css/main.84487ea8.css",
+    "main.js": "/Cards-composition-React/static/js/main.610fada7.js",
+    "static/media/kitty.jpeg": "/Cards-composition-React/static/media/kitty.c39983424421ddaa6016.jpeg",
+    "index.html": "/Cards-composition-React/index.html",
+    "main.84487ea8.css.map": "/Cards-composition-React/static/css/main.84487ea8.css.map",
+    "main.610fada7.js.map": "/Cards-composition-React/static/js/main.610fada7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84487ea8.css",
+    "static/js/main.610fada7.js"
+  ]
+}
